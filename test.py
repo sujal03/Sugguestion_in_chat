@@ -4,7 +4,7 @@ import os
 import json
 
 # Set up your OpenAI API key
-openai.api_key = "sk-proj-"
+openai.api_key = ""
 
 # File to store conversation history
 CONVERSATION_FILE = "conversation_history.json"
